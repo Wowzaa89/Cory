@@ -10,3 +10,6 @@ Cory, is a AI Assistant that will bring you joy to your world, it uses the Lates
 | STT           |   ❌          |
 | Image Creation     |   ❌          |
 | Video Creation |   ❌          |
+
+## LATEST BUILD VERSION
+1.0.0
